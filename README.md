@@ -26,4 +26,5 @@ decisions, e.g.
 And we can draw conclusions on many other levels e.g:
 - we can speculate on the wealth of a given area by the amount of crime, usually these are poor
 neighborhoods
+
 There are many conclusions we can draw, mainly it depends on the problem we have.
