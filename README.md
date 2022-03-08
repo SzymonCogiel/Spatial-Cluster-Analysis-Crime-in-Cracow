@@ -28,3 +28,7 @@ And we can draw conclusions on many other levels e.g:
 neighborhoods
 
 There are many conclusions we can draw, mainly it depends on the problem we have.
+
+
+![Screenshot from 2022-03-08 19-21-59](https://user-images.githubusercontent.com/81774440/157301622-d66ad23c-1f8f-4f06-b3b3-90b8b97bcd64.png)
+
