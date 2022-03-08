@@ -12,7 +12,7 @@ In the analysis we tested algorithms such as:
 - Agglomerative Clustering (linkage=Ward)
 - Gaussian Mixture
 
-In my personal opinion the BIRCH algorithm worked best in this situation because of the very good results in the quick selection of hyperparameters.
+In my personal opinion the BIRCH and HDBSCAN algorithms worked best in this situation BIRCH because of the very good results in the quick selection of hyperparameters and HDBSCAN because handled the noise very well.
 Each algorithm agrees with the hypothesis that a fairly large gathering of crime is located in
 the area of Krakow's Main Market Square.
 Other fairly large concentrations are in Mistrzejowice, Bieńczyce, Prądnik Czerwony and parts of Czyżyny.
