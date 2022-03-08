@@ -37,3 +37,5 @@ BIRTCH result:
 
 ![Screenshot from 2022-03-08 19-21-45](https://user-images.githubusercontent.com/81774440/157302116-5fcb4fb2-4c1f-48fa-acf1-9a6a1e6b95b2.png)
 
+## NOTES
+Raw data has been pre-processed in ArcGIS Pro.
