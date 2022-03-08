@@ -11,6 +11,7 @@ In the analysis we tested algorithms such as:
 - MeanShift
 - Agglomerative Clustering (linkage=Ward)
 - Gaussian Mixture
+
 In my personal opinion the BIRCH algorithm worked best in this situation because of the very good results in the quick selection of hyperparameters.
 Each algorithm agrees with the hypothesis that a fairly large gathering of crime is located in
 the area of Krakow's Main Market Square.
