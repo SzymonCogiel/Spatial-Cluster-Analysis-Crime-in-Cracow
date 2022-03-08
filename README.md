@@ -33,3 +33,7 @@ HDBSCAN result:
 
 ![Screenshot from 2022-03-08 19-21-59](https://user-images.githubusercontent.com/81774440/157301622-d66ad23c-1f8f-4f06-b3b3-90b8b97bcd64.png)
 
+BIRTCH result:
+
+![Screenshot from 2022-03-08 19-21-45](https://user-images.githubusercontent.com/81774440/157302116-5fcb4fb2-4c1f-48fa-acf1-9a6a1e6b95b2.png)
+
