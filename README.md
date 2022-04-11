@@ -1,6 +1,5 @@
 # Spatial-Cluster-Analysis-Crime-in-Cracow
-The aim of the analysis was to determine areas with increased intensity of recorded
-of recorded offences in Krakow.
+The aim of the analysis was to determine areas with increased intensity of recorded offences in Krakow.
 In the analysis we tested algorithms such as:
 - K-Means
 - HDBSCAN
